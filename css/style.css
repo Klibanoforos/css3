@@ -6,5 +6,12 @@ p {
 }
 
 #name{
-    color: aqua
+    color: aqua;
+    font-size: 12px;
+    background: black;
+}
+.blabla{
+    color: red;
+    font-size: 16px;
+    background: white;
 }
