@@ -1,4 +1,4 @@
-p {
+p, a {
     color: green;
     font-size: 18px;
     background: purple;
@@ -10,8 +10,13 @@ p {
     font-size: 12px;
     background: black;
 }
+
 .blabla{
     color: red;
     font-size: 16px;
     background: white;
+}
+
+li > 1 {
+    color: rebeccapurple
 }
